@@ -1,7 +1,4 @@
-# stock-price-forecasting
-Predicting Stock Price Changes Using Machine Learning Models
-
-Microsoft (2010–2024)
+# Stock Price Prediction – Microsoft (2010–2024)
 
 This project applies machine learning models to forecast daily percentage changes in Microsoft (MSFT) stock prices using historical data from 2010 to 2024.
 
