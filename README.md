@@ -24,7 +24,7 @@ This project applies machine learning models to forecast daily percentage change
 - Yahoo Finance API (via `yfinance`)
 
 ## 📄 Full Report
-See [Final_Report_ML.pdf](Final_Report_ML.pdf) for full methodology, results, and visualizations.
+See [Full_Report.pdf](Full_Report.pdf) for full methodology, results, and visualizations.
 
 ## Author
 **Alen Šahinpašić**  
